@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu2190
+- 👋 Hi, I’m Himanshu Mahajan
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Python and PHP
 - 💞️ I’m looking to collaborate on PHP based projects
