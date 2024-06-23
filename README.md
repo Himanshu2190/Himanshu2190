@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Mahajan
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Python and PHP
-- 💞️ I’m looking to collaborate on PHP based projects
+- 👀 I’m Flutter Developer 
+- 🌱 I’m currently learning Native Programming
+- 💞️ I’m looking to collaborate on Flutter based projects
 - 📫 How to reach me - mahajanhimanshu7262@gmail.com 
 
 <!---
